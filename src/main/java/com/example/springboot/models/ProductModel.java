@@ -30,6 +30,7 @@ public class ProductModel implements Serializable {
     private LocalDateTime updatedAt;
 
 
+
     // Getters e Setters
     public UUID getIdProduct() {
         return idProduct;
